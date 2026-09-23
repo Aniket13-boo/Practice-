@@ -1,4 +1,48 @@
+# Jupyter Notebook
 .ipynb_checkpoints/
+
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# VS Code
 .vscode/
+
+# Python environment/config files
+.env
+.env.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Build/output files
+build/
+dist/
+*.egg-info/
+
+# C/C++ compiled files
+*.exe
+*.obj
+*.o
+*.out
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
